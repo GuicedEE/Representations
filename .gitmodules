@@ -1,9 +1,12 @@
 [submodule "json"]
 	path = json
 	url = https://github.com/GuicedEE/JsonRepresentation.git
+	branch = master
 [submodule "xml"]
 	path = xml
 	url = https://github.com/GuicedEE/XMLRepresentation.git
+	branch = master
 [submodule "excel"]
 	path = excel
 	url = https://github.com/GuicedEE/ExcelRepresentation.git
+	branch = master
